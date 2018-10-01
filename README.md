@@ -4,4 +4,7 @@ SpringBootSecurityMySql - This project illustrates the basics of Spring Security
 SpringBootJWT: - A sample program to demonstrate JWT authentication in spring boot app.
 
 SecurityBoot: - This Project uses MySql and Spring boot security. It also shows the usage of csrf and @AuthenticationPrincipal.
+
 If there are any user service based security projects in future, use this project as reference.
+
+spring-boot-google-oauth:  This application uses google provided oauth to authenticate users into the application.
